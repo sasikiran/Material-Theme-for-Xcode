@@ -1,7 +1,9 @@
 #####README
-![alt text](http://i60.tinypic.com/205ldi.jpg "Material Theme for Xcode 6")
 
 [Port of Mattia Astorino's Material Theme for Sublime Text 3](https://github.com/equinusocio/material-theme)
+
+![alt text](https://raw.github.com/sasikiran/Material-Theme-for-Xcode/master/screenshot.png "Material Theme for Xcode 6")
+
 
 #####Installation instructions
 
@@ -19,7 +21,7 @@
 
 4. Restart Xcode.
 
-
+-----------
 
 #####Recommended fonts
 The theme looks at it's best if you use one of these fonts:
